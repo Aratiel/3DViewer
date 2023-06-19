@@ -1,0 +1,3 @@
+#!/bin/bash
+sDir="$( cd "$( dirname "$0" )" && pwd )"
+cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=clang++ $sDir

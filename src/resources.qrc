@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="teapot">objs/teapot.obj</file>
+        <file alias="fragment_shader">shaders/fshader.glsl</file>
+        <file alias="vertex_shader">shaders/vshader.glsl</file>
+        <file>images/app.png</file>
+        <file alias="gif_icon">images/gif.png</file>
+        <file alias="rec_icon">images/rec.png</file>
+        <file>images/images.png</file>
+    </qresource>
+</RCC>
