@@ -1,0 +1,30 @@
+#  Viewpoint Datalabs International, Inc.  Copyright 1996
+
+
+mtllib ./vp.mtl
+
+g
+v -0.5 0.5 0.5
+v 0.5 0.5 0.5
+v 0.5 -0.5 0.5f
+v -0.5 -0.5 0.5
+v -0.5 0.5 -0.5
+v 0.5 0.5 -0.5
+v 0.5 -0.5 -0.5
+v -0.5 -0.5 -0.5
+# 8 vertices
+
+# 0 vertex parms
+
+# 0 texture vertices
+
+# 0 normals
+
+g shroud
+f 1 2 3 4
+f 5 6 7 8
+f 1 5
+f 2 6
+f 3 7
+f 4 8
+
